@@ -1,0 +1,3 @@
+# insight
+
+I worked on a consulting project for EatSleepRide, a phone app for motorcycle riders.  I was tasked with labeling their phone data from riders.  Currenlty, the company has employees manually labeling this data by watching videos of the ride that are sysnced with the phone data.  It takes one employee 8 hours to label 30-60 minutes of riding data.  The goal is to use this label data to create new models and features for their app.  
